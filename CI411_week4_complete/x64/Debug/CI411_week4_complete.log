@@ -1,0 +1,17 @@
+﻿  CI411_week4_complete.cpp
+C:\Users\rubbe\OneDrive - University of Brighton\NK407_Modules\CI411\workshops\CI411_week4_complete\CI411_week4_complete.cpp(18,2): error C3861: 'counting20': identifier not found
+C:\Users\rubbe\OneDrive - University of Brighton\NK407_Modules\CI411\workshops\CI411_week4_complete\CI411_week4_complete.cpp(19,2): error C3861: 'counting100': identifier not found
+C:\Users\rubbe\OneDrive - University of Brighton\NK407_Modules\CI411\workshops\CI411_week4_complete\CI411_week4_complete.cpp(20,2): error C3861: 'timestables': identifier not found
+C:\Users\rubbe\OneDrive - University of Brighton\NK407_Modules\CI411\workshops\CI411_week4_complete\CI411_week4_complete.cpp(42,4): error C3861: 'counting20': identifier not found
+C:\Users\rubbe\OneDrive - University of Brighton\NK407_Modules\CI411\workshops\CI411_week4_complete\CI411_week4_complete.cpp(44,4): error C3861: 'counting100': identifier not found
+C:\Users\rubbe\OneDrive - University of Brighton\NK407_Modules\CI411\workshops\CI411_week4_complete\CI411_week4_complete.cpp(46,4): error C3861: 'timestables': identifier not found
+C:\Users\rubbe\OneDrive - University of Brighton\NK407_Modules\CI411\workshops\CI411_week4_complete\CI411_week4_complete.cpp(48,4): error C3861: 'timestables2': identifier not found
+C:\Users\rubbe\OneDrive - University of Brighton\NK407_Modules\CI411\workshops\CI411_week4_complete\CI411_week4_complete.cpp(78,38): warning C4552: '+': result of expression not used
+C:\Users\rubbe\OneDrive - University of Brighton\NK407_Modules\CI411\workshops\CI411_week4_complete\CI411_week4_complete.cpp(99,2): error C2144: syntax error: 'char' should be preceded by ';'
+C:\Users\rubbe\OneDrive - University of Brighton\NK407_Modules\CI411\workshops\CI411_week4_complete\CI411_week4_complete.cpp(101,2): error C2059: syntax error: 'while'
+C:\Users\rubbe\OneDrive - University of Brighton\NK407_Modules\CI411\workshops\CI411_week4_complete\CI411_week4_complete.cpp(102,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\rubbe\OneDrive - University of Brighton\NK407_Modules\CI411\workshops\CI411_week4_complete\CI411_week4_complete.cpp(102,2): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\rubbe\OneDrive - University of Brighton\NK407_Modules\CI411\workshops\CI411_week4_complete\CI411_week4_complete.cpp(140,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rubbe\OneDrive - University of Brighton\NK407_Modules\CI411\workshops\CI411_week4_complete\CI411_week4_complete.cpp(145,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rubbe\OneDrive - University of Brighton\NK407_Modules\CI411\workshops\CI411_week4_complete\CI411_week4_complete.cpp(150,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rubbe\OneDrive - University of Brighton\NK407_Modules\CI411\workshops\CI411_week4_complete\CI411_week4_complete.cpp(158,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
