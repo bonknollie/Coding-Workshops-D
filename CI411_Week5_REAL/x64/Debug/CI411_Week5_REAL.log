@@ -1,0 +1,27 @@
+﻿  functions.cpp
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(78,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(111,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(112,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(208,12): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(210,12): warning C4129: '	': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(212,12): warning C4129: '	': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(214,12): warning C4129: '*': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(214,12): warning C4129: '	': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(218,12): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(218,12): warning C4129: '$': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(220,12): warning C4129: '|': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(222,12): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(224,12): warning C4129: '|': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(226,12): warning C4129: '	': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(228,12): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(230,12): warning C4129: '.': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(232,12): warning C4129: 'J': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(232,12): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(234,12): warning C4129: '%': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(236,12): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(248,12): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(276,12): warning C4129: '	': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(278,12): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(278,12): warning C4129: '	': unrecognized character escape sequence
+C:\Users\rubbe\source\repos\CI411_Week5_REAL\functions.cpp(286,10): warning C4101: 'collision': unreferenced local variable
+  CI411_Week5_REAL.vcxproj -> C:\Users\rubbe\source\repos\CI411_Week5_REAL\x64\Debug\CI411_Week5_REAL.exe
